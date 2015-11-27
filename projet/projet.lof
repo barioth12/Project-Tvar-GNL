@@ -1,0 +1,18 @@
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces The effect of varying $\mu $ on the probability density function of $X\sim GNL(\mu ,\sigma ^2=2,\alpha =1,\beta =2,\rho =2)$}}{10}{figure.1.1}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces The effect of varying $\sigma $ on the probability density function of $X\sim GNL(\mu =1,\sigma ^2,\alpha =1,\beta =2,\rho =2)$}}{10}{figure.1.2}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces The effect of varying $\alpha $ on the probability density function of $X\sim GNL(\mu =1,\sigma ^2=2,\alpha ,\beta =2,\rho =2)$}}{11}{figure.1.3}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces The effect of varying $\beta $ on the probability density function of $X\sim GNL(\mu =1,\sigma ^2=2,\alpha =1,\beta ,\rho =2)$}}{11}{figure.1.4}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces The effect of varying $\rho $ on the probability density function of $X\sim GNL(\mu =1,\sigma ^2=2,\alpha =1,\beta =2,\rho )$}}{12}{figure.1.5}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

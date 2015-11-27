@@ -1,0 +1,1 @@
+mu= 9, sigma= 7, alpha=12, beta=10,rho= 3, tvar=42.3984 interval (40.4954,46.0226) oui

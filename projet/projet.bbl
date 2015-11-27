@@ -1,0 +1,60 @@
+\begin{thebibliography}{10}
+
+\bibitem{lossmodel}
+Stuart. A.~Klugman, Harry H.Panjer, and Gordon E.Willmot.
+\newblock {\em Loss models from data to decisions}.
+\newblock Hoboken, N.J. : John Wiley \& Sons, third edition edition, 2008.
+
+\bibitem{coheranceTVAR}
+C.~{Acerbi} and D.~{Tasche}.
+\newblock {On the coherence of Expected Shortfall}.
+\newblock {\em eprint arXiv:cond-mat/0104295}, April 2001.
+
+\bibitem{proba}
+Krishna~B. Athreya and Soumendra~N. Lahirie.
+\newblock {\em Measure theory and probability theory}, 2006.
+
+\bibitem{unimodal}
+G{\"o}knur Giner and Gordon~K Smyth.
+\newblock A monotonically convergent newton iteration for the quantiles of any
+  unimodal distribution, with application to the inverse gaussian distribution.
+\newblock 2014.
+
+\bibitem{distquadGNL}
+Ionica Groparu-Cojocaru.
+\newblock Quadratic distance methods applied to generalized normal laplace
+  distribution.
+\newblock Master's thesis, Université de Montréal, 2007.
+
+\bibitem{monotone}
+Anthony~W. Knap.
+\newblock {\em Basic Real Analysis}.
+\newblock Boston : Birkhauser, third edition edition, 2005.
+
+\bibitem{returndist}
+John Knight and Stephen Satchell.
+\newblock {\em Return distribution in finance}.
+\newblock Butterwoth-Heinemann Finance, 2001.
+
+\bibitem{rigprob}
+Jeffrey S.~Rosenthal.
+\newblock {\em A first look at rigorous probability theory}.
+\newblock World Scientific Publishing Co. Pte. Ltd., 2nd edition edition, 2006.
+
+\bibitem{analysis}
+Rinaldo~B. Schinazi.
+\newblock {\em From calculus to Analysis}, 2012.
+
+\bibitem{appGNL}
+Fan Wu.
+\newblock Applicaion of the normal laplace and generalized normal laplace
+  distributions.
+\newblock Master's thesis, University of Victoria, 2008.
+
+\bibitem{yamazato1978unimodality}
+Makoto Yamazato.
+\newblock Unimodality of infinitely divisible distribution functions of class
+  l.
+\newblock {\em The Annals of Probability}, pages 523--531, 1978.
+
+\end{thebibliography}

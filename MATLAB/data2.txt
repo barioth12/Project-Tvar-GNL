@@ -1,0 +1,52 @@
+mu=21,sigma^2=16,alpha= 2,beta=26,rho=10$ Z var=254.0336 Z tvar=257.5685 Z P(257.3986,257.6399)P oui
+mu= 7,sigma^2= 6,alpha=15,beta=29,rho= 5$ Z var=52.0949 Z tvar=53.6120 Z P(53.5558,53.6603)P oui
+mu=14,sigma^2=10,alpha= 6,beta=19,rho=12$ Z var=203.2732 Z tvar=206.3109 Z P(206.2111,206.4325)P oui
+mu=14,sigma^2= 1,alpha=14,beta=17,rho=18$ Z var=265.3941 Z tvar=266.5739 Z P(266.5517,266.6358)P oui
+mu=13,sigma^2=13,alpha=27,beta=16,rho=27$ Z var=408.2197 Z tvar=413.4077 Z P(413.2344,413.6010)P oui
+mu=14,sigma^2=30,alpha=24,beta= 9,rho=16$ Z var=290.6083 Z tvar=296.6753 Z P(296.3779,296.8053)P oui
+mu=14,sigma^2=21,alpha=30,beta= 1,rho=13$ Z var=221.5777 Z tvar=226.2366 Z P(226.1257,226.4434)P oui
+mu=21,sigma^2= 9,alpha=27,beta= 9,rho=24$ Z var=547.6734 Z tvar=551.7453 Z P(551.5443,551.8224)P oui
+mu=24,sigma^2= 1,alpha= 6,beta= 3,rho= 3$ Z var=77.1554 Z tvar=77.6585 Z P(77.6454,77.6812)P oui
+mu= 4,sigma^2=18,alpha= 3,beta=30,rho=22$ Z var=156.2922 Z tvar=161.8201 Z P(161.5679,161.9307)P oui
+mu= 3,sigma^2=30,alpha=11,beta=29,rho=25$ Z var=161.0536 Z tvar=168.6368 Z P(168.5391,169.0779)P oui
+mu=29,sigma^2= 9,alpha=13,beta=13,rho=12$ Z var=380.1357 Z tvar=383.0148 Z P(382.9529,383.1570)P oui
+mu= 3,sigma^2= 7,alpha= 1,beta= 5,rho=29$ Z var=157.7772 Z tvar=162.0990 Z P(161.9337,162.2477)P oui
+mu=17,sigma^2= 3,alpha=20,beta=26,rho= 2$ Z var=41.5977 Z tvar=42.2763 Z P(42.2641,42.3114)P oui
+mu= 4,sigma^2=18,alpha=12,beta=20,rho=19$ Z var=133.7968 Z tvar=138.9182 Z P(138.7223,139.0775)P oui
+mu= 9,sigma^2=21,alpha=24,beta= 2,rho=16$ Z var=193.6341 Z tvar=198.7360 Z P(198.4761,198.8239)P oui
+mu= 6,sigma^2= 5,alpha= 2,beta=15,rho=24$ Z var=189.1755 Z tvar=192.3017 Z P(192.1784,192.3953)P oui
+mu=30,sigma^2= 9,alpha= 2,beta=27,rho=18$ Z var=588.2523 Z tvar=591.8345 Z P(591.7842,592.0341)P oui
+mu=17,sigma^2=30,alpha=27,beta=23,rho= 4$ Z var=101.8279 Z tvar=104.8609 Z P(104.8157,105.0280)P oui
+mu=21,sigma^2= 3,alpha=15,beta=21,rho=19$ Z var=422.7189 Z tvar=424.8115 Z P(424.7580,424.9091)P oui
+mu=12,sigma^2=17,alpha= 9,beta= 6,rho= 6$ Z var=102.9128 Z tvar=105.7121 Z P(105.6300,105.8234)P oui
+mu= 8,sigma^2=14,alpha= 9,beta=28,rho= 9$ Z var=107.3835 Z tvar=110.4928 Z P(110.2833,110.4852)P non
+mu=29,sigma^2= 8,alpha= 8,beta=10,rho=25$ Z var=769.3978 Z tvar=773.3195 Z P(773.1235,773.4002)P oui
+mu=14,sigma^2= 8,alpha= 8,beta=12,rho= 7$ Z var=121.4500 Z tvar=123.5248 Z P(123.4396,123.5899)P oui
+mu=10,sigma^2=27,alpha=10,beta=13,rho= 5$ Z var=86.0313 Z tvar=89.2490 Z P(89.0575,89.2826)P oui
+mu=17,sigma^2= 1,alpha=19,beta=30,rho= 1$ Z var=20.1159 Z tvar=20.3934 Z P(20.3841,20.4034)P oui
+mu=17,sigma^2=19,alpha=27,beta=13,rho=27$ Z var=527.9287 Z tvar=534.2005 Z P(534.0166,534.4758)P oui
+mu=19,sigma^2= 1,alpha= 5,beta= 1,rho=20$ Z var=382.5592 Z tvar=384.1095 Z P(384.0466,384.1579)P oui
+mu=13,sigma^2=16,alpha=21,beta= 5,rho=13$ Z var=211.6445 Z tvar=215.6424 Z P(215.5371,215.8219)P oui
+mu= 1,sigma^2=29,alpha=21,beta= 6,rho=13$ Z var=71.4845 Z tvar=76.8628 Z P(76.6837,77.0717)P oui
+mu=20,sigma^2=26,alpha=28,beta=27,rho=15$ Z var=361.0105 Z tvar=366.4782 Z P(366.3001,366.6914)P oui
+mu=12,sigma^2= 6,alpha= 1,beta= 1,rho=12$ Z var=174.4071 Z tvar=177.1762 Z P(177.0441,177.2415)P oui
+mu=20,sigma^2= 5,alpha= 2,beta=27,rho=23$ Z var=504.6834 Z tvar=507.7433 Z P(507.6304,507.8432)P oui
+mu= 9,sigma^2=22,alpha=23,beta=20,rho=13$ Z var=169.1810 Z tvar=173.8636 Z P(173.6948,174.0157)P oui
+mu=17,sigma^2=26,alpha=29,beta=17,rho= 8$ Z var=180.3772 Z tvar=184.3705 Z P(184.1615,184.4440)P oui
+mu=16,sigma^2=19,alpha=16,beta=30,rho=18$ Z var=345.6810 Z tvar=350.8017 Z P(350.7311,351.1044)P oui
+mu=13,sigma^2=16,alpha=20,beta=16,rho= 1$ Z var=25.3509 Z tvar=26.4585 Z P(26.4162,26.4916)P oui
+mu=16,sigma^2= 1,alpha=25,beta=27,rho=10$ Z var=169.8164 Z tvar=170.6932 Z P(170.6683,170.7298)P oui
+mu=25,sigma^2= 9,alpha=18,beta=21,rho=28$ Z var=749.2927 Z tvar=753.6890 Z P(753.5891,753.9115)P oui
+mu=27,sigma^2=11,alpha=28,beta= 6,rho=19$ Z var=555.2447 Z tvar=559.2522 Z P(559.0592,559.3335)P oui
+mu=17,sigma^2=21,alpha=18,beta= 1,rho= 6$ Z var=131.7275 Z tvar=134.8869 Z P(134.7512,134.9643)P oui
+mu= 8,sigma^2=10,alpha= 4,beta=28,rho= 6$ Z var=73.3034 Z tvar=75.4559 Z P(75.4023,75.5538)P oui
+mu=22,sigma^2= 6,alpha= 4,beta=21,rho= 5$ Z var=128.0368 Z tvar=129.5633 Z P(129.5074,129.6128)P oui
+mu=17,sigma^2= 7,alpha= 4,beta=26,rho=28$ Z var=525.3901 Z tvar=529.2852 Z P(529.2026,529.4714)P oui
+mu=29,sigma^2= 1,alpha= 7,beta= 8,rho=25$ Z var=741.1768 Z tvar=742.5866 Z P(742.5584,742.6552)P oui
+mu=11,sigma^2=22,alpha=19,beta= 6,rho=17$ Z var=244.8646 Z tvar=250.2223 Z P(250.1283,250.5115)P oui
+mu= 9,sigma^2=14,alpha= 8,beta=27,rho=30$ Z var=336.0086 Z tvar=341.6861 Z P(341.4117,341.8010)P oui
+mu=10,sigma^2= 8,alpha=24,beta= 9,rho=15$ Z var=182.8395 Z tvar=185.8749 Z P(185.7800,186.0011)P oui
+mu=24,sigma^2= 6,alpha=20,beta= 1,rho=23$ Z var=569.0060 Z tvar=572.4489 Z P(572.2988,572.5313)P oui
+mu=16,sigma^2=23,alpha=30,beta=26,rho= 3$ Z var=73.6555 Z tvar=75.9553 Z P(75.8512,76.0089)P oui
+mu=27,sigma^2=29,alpha=27,beta=22,rho=28$ Z var=843.8276 Z tvar=851.7173 Z P(851.3480,851.8986)P oui
+Compteur=        50 et NombreIteration=        50
